@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Smita Kasabe
 
-<!--
-**smitakasabe1998-svg/smitakasabe1998-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | Angular Specialist  
+💻 3+ Years Experience | Banking & Enterprise Applications
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- Frontend Developer with strong experience in **Angular 19**
+- Skilled in building **secure, scalable & reusable UI components**
+- Experienced in API integration, form validations, routing & guards
+- Passionate about clean code and performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Angular 16+
+- TypeScript
+- JavaScript (ES6+)
+- HTML5, CSS3, SCSS
+- RxJS
+- Angular Material
+- REST APIs
+
+## 📌 Currently Learning
+- Advanced Angular (Performance, Signals)
+- Unit Testing (Jasmine & Karma)
+- System Design for Frontend
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/smita-kasabe-746466216
+- 📧 Email: smitakasabe30@gmail.com
